@@ -2,7 +2,7 @@
 
 ### Central Dashboard
 
-View all clients and total balance from the dashboard. You can also add new clients here by clicking the green "Add Client" button and filling out the form.
+View all clients and total balance from the dashboard. You can also add new clients here by clicking the green "New" button and filling out the form.
 
 ![Image of Client Manager App Dashboard](/images/client-app-1.png)
 
