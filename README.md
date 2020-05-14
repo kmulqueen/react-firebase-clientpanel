@@ -21,8 +21,7 @@ Authentication through firebase, and data is stored on firestore.
 
 If you would like to see the app in action without having to register, please feel free to use the info below. All I ask is that you do not add anything inappropriate to the client list.
 
-Application:
-https://react-client-panel-61b17.firebaseapp.com/login?redirect=%2F
+You can check out the app [here](https://react-client-panel-61b17.firebaseapp.com/login?redirect=%2F)
 
 Credentials:
 email: test@test.com
